@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/kilkaVhlebe/WSF-Bot#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "telegraf": "^4.16.3",
     "ts-node": "^10.9.2",
     "wikipedia": "^2.1.2"
